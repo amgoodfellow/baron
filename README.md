@@ -9,8 +9,8 @@ systems and in the Rust programming language itself.
 It should also be said that we're following the guide provided [here](https://os.phil-opp.com/)
 
 ## Contributors
-[Aaron Goodfellow](https://github.com/Aaron-G-9/)
-[Brandon Powell](https://github.com/bpowell)
+[Aaron Goodfellow](https://github.com/Aaron-G-9/)  
+[Brandon Powell](https://github.com/bpowell)  
 (Bet you can't guess how we came up with the name...)
 
 ## Project State
